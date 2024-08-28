@@ -1,0 +1,9 @@
+body{
+    background: url(../img/fundo.png);
+	background-color: #444;
+    background-size: cover;
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
