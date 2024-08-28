@@ -2,5 +2,5 @@
 
 
 <p aling="center">
-<img width="500" src="src/base-do-projeto.png">
+<img width="100%" src="src/base-do-projeto.png">
 </p>
