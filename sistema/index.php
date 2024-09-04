@@ -31,7 +31,7 @@
 			    	<h3 class="panel-title">Faça seu login</h3>
 			 	</div>
 			  	<div class="panel-body">
-			    	<form accept-charset="UTF-8" role="form">
+			    	<form accept-charset="UTF-8" role="form" action="autenticar.php" method="post">
                     <fieldset>
 			    	  	<div class="form-group">
 			    		    <input class="form-control" placeholder="E-mail" name="email" type="text">
