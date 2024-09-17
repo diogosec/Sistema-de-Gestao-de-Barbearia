@@ -13,7 +13,7 @@ try {
 	echo 'Não conectado ao Banco de Dados! <br><br>' .$e;
 }
 
-$nome_sistema = 'Barber';
+$nome_sistema = 'BarberX';
 $email_sistema = 'adm1@barber.com';
 
  ?>
